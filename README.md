@@ -1,2 +1,2 @@
 # Rayapureddy-Tarun
-This project is image classification with cnn .so it's mainly imge convoulaton layer and size based reduce in polling layer
+This project short way to tell is audio read in  pdf so its mainly work in library is pytsx3 and pdf2 library in work in python code run execution 
